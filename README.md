@@ -40,3 +40,6 @@ Avec le `Manifest.json` en lecture seule:
   "be.techno.charleroixrart":"https://github.com/EloiStree/2026_04_07_upm_charleroi_xr_art_on_unity.git"
 ```
 
+
+
+

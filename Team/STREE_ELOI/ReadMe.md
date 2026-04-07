@@ -21,5 +21,3 @@ Looking for:
 - Create toolbox for Godot  
 - Help learning Unity/Godot 
 
-
-Conflit

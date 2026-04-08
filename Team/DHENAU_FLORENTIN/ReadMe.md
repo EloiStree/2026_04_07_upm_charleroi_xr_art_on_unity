@@ -1,4 +1,4 @@
-![Profil](ProfilPicture.jpg)	    
+![Profil](ProfilPicture.png)	    
 
 Name: D'Henau Florentin  
 Job: XR dev & designer    

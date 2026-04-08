@@ -564,11 +564,72 @@ PrefabInstance:
       propertyPath: m_Name
       value: MQ135Module
       objectReference: {fileID: 0}
+    - target: {fileID: 8811433362294392275, guid: 85d1cd854c49cd343a1d694713cf4603, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 85d1cd854c49cd343a1d694713cf4603, type: 3}
+--- !u!1001 &4499988390788033476
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 6053734817439204570, guid: 6987063c8193c5042b26514dc97ca228, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6053734817439204570, guid: 6987063c8193c5042b26514dc97ca228, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6053734817439204570, guid: 6987063c8193c5042b26514dc97ca228, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6053734817439204570, guid: 6987063c8193c5042b26514dc97ca228, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6053734817439204570, guid: 6987063c8193c5042b26514dc97ca228, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6053734817439204570, guid: 6987063c8193c5042b26514dc97ca228, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6053734817439204570, guid: 6987063c8193c5042b26514dc97ca228, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6053734817439204570, guid: 6987063c8193c5042b26514dc97ca228, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6053734817439204570, guid: 6987063c8193c5042b26514dc97ca228, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6053734817439204570, guid: 6987063c8193c5042b26514dc97ca228, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8811433362294392275, guid: 6987063c8193c5042b26514dc97ca228, type: 3}
+      propertyPath: m_Name
+      value: VibrationSensorModule
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6987063c8193c5042b26514dc97ca228, type: 3}
 --- !u!1001 &5552475017486217522
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -640,3 +701,4 @@ SceneRoots:
   - {fileID: 910390664522986303}
   - {fileID: 5552475017486217522}
   - {fileID: 3429761432912546717}
+  - {fileID: 4499988390788033476}
